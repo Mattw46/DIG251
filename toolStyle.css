@@ -1,0 +1,9 @@
+body {
+	background-color: grey;
+}
+
+#main {
+	width: 940px;
+	margin: 0px auto;
+	background-color: white;
+}
